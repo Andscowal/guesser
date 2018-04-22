@@ -1,0 +1,11 @@
+/Users/aswalters/Projects/Guesser/Guesser/bin/Debug/netcoreapp2.0/Guesser.deps.json
+/Users/aswalters/Projects/Guesser/Guesser/bin/Debug/netcoreapp2.0/Guesser.runtimeconfig.json
+/Users/aswalters/Projects/Guesser/Guesser/bin/Debug/netcoreapp2.0/Guesser.runtimeconfig.dev.json
+/Users/aswalters/Projects/Guesser/Guesser/bin/Debug/netcoreapp2.0/Guesser.dll
+/Users/aswalters/Projects/Guesser/Guesser/bin/Debug/netcoreapp2.0/Guesser.pdb
+/Users/aswalters/Projects/Guesser/Guesser/obj/Debug/netcoreapp2.0/Guesser.csprojResolveAssemblyReference.cache
+/Users/aswalters/Projects/Guesser/Guesser/obj/Debug/netcoreapp2.0/Guesser.csproj.CoreCompileInputs.cache
+/Users/aswalters/Projects/Guesser/Guesser/obj/Debug/netcoreapp2.0/Guesser.AssemblyInfoInputs.cache
+/Users/aswalters/Projects/Guesser/Guesser/obj/Debug/netcoreapp2.0/Guesser.AssemblyInfo.cs
+/Users/aswalters/Projects/Guesser/Guesser/obj/Debug/netcoreapp2.0/Guesser.dll
+/Users/aswalters/Projects/Guesser/Guesser/obj/Debug/netcoreapp2.0/Guesser.pdb

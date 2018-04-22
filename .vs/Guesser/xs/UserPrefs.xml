@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9D156FD8-84E9-4689-9FB9-0CA865E61E19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Guesser/Program.cs">
+    <Files>
+      <File FileName="Guesser/Program.cs" Line="67" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Guesser PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
